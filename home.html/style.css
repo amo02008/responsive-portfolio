@@ -1,0 +1,38 @@
+
+body {
+    /* Background pattern from Toptal Subtle Patterns */
+  background-image: url("https://www.toptal.com/designers/subtlepatterns/patterns/moroccan-flower.png");
+        
+}
+h1 {
+    color: #B0C4DE ;
+}
+
+hr {
+    position: relative; 
+            top: 20px; 
+            border: none; 
+            height: 5px; 
+            background: #B0C4DE; 
+            margin-bottom: 50px;
+}
+
+     
+.navbar-brand {
+    color: #DEB887;
+}
+   
+.btn {
+    background-color: #B0C4DE;
+    color: white
+}
+.footer {
+      padding:  15px;
+      text-align: center;
+      background-color: #B0C4DE;
+      position: fixed;
+      width: 100%;
+      bottom: 0;
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
